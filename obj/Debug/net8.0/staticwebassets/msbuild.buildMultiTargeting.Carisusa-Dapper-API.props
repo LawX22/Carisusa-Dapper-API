@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Carisusa-Dapper-API.props" />
+</Project>
